@@ -7,9 +7,9 @@ by input the images of the clothes
 
 Done by:
 
-###### mohammad alajmi
-
 ###### mohammad almalki
+
+###### mohammad alajmi
 ***
 
 ![](https://github.com/QUITE7/Classification-Project/blob/main/pic%20(1).jpg)
